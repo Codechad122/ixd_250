@@ -112,17 +112,13 @@ body {
   line-height: 1.5em;
   font-size:10;
   background-color: #e0e4e7
-
-
-
 }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "oswald", sans-seriff;
 }
-#wrap {
-  min-height: 100%;
-  margin-bottom: 25px;
-}
+
+
 /*h header area */
 header {
   width: 75%;
