@@ -12,3 +12,14 @@
     
 
 }
+
+.header-container h1 {
+    font-weight: bold;
+    color: white;
+
+}
+
+.header-container nav {
+    color: white;
+    font-size: 24px;
+}
