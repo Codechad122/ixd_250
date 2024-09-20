@@ -64,3 +64,17 @@
     width: 100%;
     height: 100%;
 }
+
+.main-content {
+    display: flex;
+}
+
+.side-bar {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    background-color: rgb(156 163 175);
+    padding: 16px;
+    gap: 16px;
+    min-height: 100vh;
+}
